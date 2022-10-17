@@ -1,4 +1,5 @@
 public class AddDigits_258 {
+
     public int addDigits(int num) {
         do {
             int sum = 0;
