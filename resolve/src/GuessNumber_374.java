@@ -3,7 +3,7 @@ public class GuessNumber_374 {
         int low = 0, high = n;
         while(low <= high) {
             int mid = low + (high - low) / 2;
-            int result = guess(mid);
+            int result = 0; // guess(mid);
             if ( result == 0) {
                 return mid;
             } else if(result == 1) {
