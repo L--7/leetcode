@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashSet;
 import java.util.List;
 import java.util.PriorityQueue;
+import java.util.Set;
 
 public class KSmallestPairs_373 {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
