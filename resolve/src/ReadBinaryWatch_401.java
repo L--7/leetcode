@@ -6,6 +6,4 @@ public class ReadBinaryWatch_401 {
         List<String> ans = new ArrayList<>();
         return ans;
     }
-
-
 }
